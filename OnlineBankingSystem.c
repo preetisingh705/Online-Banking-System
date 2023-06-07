@@ -18,7 +18,7 @@ int main(){
 	float amount;
 	
 	printf("\n------------***WELCOME TO IN OUR ONLINE BANKING SYSTEM***--------------");
-	printf("\n\n1. Register an Account");
+	printf("\n\n1. Register An Account");
 	printf("\n2. Login to an account");
 	
 	
