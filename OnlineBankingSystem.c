@@ -19,7 +19,7 @@ int main(){
 	
 	printf("\n------------***WELCOME TO IN OUR ONLINE BANKING SYSTEM***--------------");
 	printf("\n\n1. Register an Account");
-	printf("\n2. Login to an account");
+	printf("\n2. Login to an Account");
 	
 	
 	printf("\n\nYour choice:\n");
