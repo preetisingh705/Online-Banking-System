@@ -17,7 +17,7 @@ int main(){
 	char cont='y';
 	float amount;
 	
-	printf("\n------------***WELCOME TO IN OUR ONLINE BANKING SYSTEM***--------------");
+	printf("\n------------***WELCOME TO BANKING WORLD BY PREETI SINGH***--------------");
 	printf("\n\n1. Register an account");
 	printf("\n2. Login to an account");
 	
