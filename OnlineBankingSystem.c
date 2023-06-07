@@ -18,7 +18,7 @@ int main(){
 	float amount;
 	
 	printf("\n------------***WELCOME TO IN OUR ONLINE BANKING SYSTEM***--------------");
-	printf("\n\n1. Register an account");
+	printf("\n\n1. Register an Account");
 	printf("\n2. Login to an account");
 	
 	
@@ -164,7 +164,7 @@ if(opt ==2 )
 	   }	
 	}
 	else{
-		printf("\nInvalid password");
+		printf("\nINVALID PASSWORD");
 		printf("\n\nLogin Again.....\t");
 		
 	}
